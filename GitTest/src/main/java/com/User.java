@@ -9,5 +9,6 @@ public class User {
         System.out.println("大家好");
         System.out.println("6666");
         System.out.println("肖凯");
+        System.out.println("肖凯");
     }
 }
